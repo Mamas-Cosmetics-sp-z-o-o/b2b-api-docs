@@ -18,7 +18,7 @@ This repository will contain integration guides and API references for partners 
 
 Interested in early API access? Contact our team:
 
-📩 support@e-mamas.com  
+📩 support@mamas-b2b.com
 🌐 [mamas-b2b.com](https://mamas-b2b.com)
 
 ## Status
